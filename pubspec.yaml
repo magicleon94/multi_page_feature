@@ -13,6 +13,7 @@ dependencies:
   pedantic: ^1.9.2
   equatable: ^1.2.5
   flutter_bloc: ^6.0.5
+  meta: ^1.2.3
 
 dev_dependencies:
   flutter_test:

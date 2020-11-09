@@ -1,0 +1,19 @@
+name: multi_page_feature
+description: Handle multi page features navigation from a bloc emitting trigger states.
+version: 1.0.0
+homepage: https://github.com/magicleon94/multi_page_feature
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pedantic:
+  equatable: ^1.2.5
+  flutter_bloc: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
